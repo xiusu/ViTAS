@@ -1,0 +1,141 @@
+port: 20030
+model:
+    backbone:
+        init_stem: [1, 3, [14, 16, 32], [], 384, [], [], True, ['Patch_init']]
+        Block: [16, 384, [3, 6, 12, 16], 1440, 384, 1440, 384, True, ['Block', 'id']]
+        Norm: [1, 384, [], [], [], [], [], 'token', ['Norm']]
+        FC: [1, 384, [], [], 1000, [], [], False, ['FC']]
+    depth: 16
+    heads_share: True
+    qkv: 2
+
+search:
+    flag: False
+
+    strategy:
+        max_epochs: 300
+        optimizer:
+            type: 'SGD'
+            lr: 0.001
+            weight_decay: 0.05
+        kwargs:
+            search: True
+            channel_percent: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+            side_scheme: 'BCNet'    # ['AutoSlim', 'BCNet']
+            heads_share: True
+            mix_up: False
+            warm_up: 5
+            ps_num: 1000 # prop search num each iteration
+
+        task_type: 'imagenet'
+        snapshot_freq: 10000
+        print_freq: 20
+        resume: True
+        save_path: '../ViTAS_pth/858M_pth'
+        load_name: 'recent_ckpt.pth.tar'
+
+    data:
+        data_dir: your train data path
+        workers: 8  # dataloader worker num
+        task_type: 'imagenet'
+        augmentation: 'deit_xaa_xcj'
+        batch_size: 1024
+
+sample:
+    flag: False
+    sampler:
+        type: 'evolution'
+        kwargs:
+            init_pop: True
+            pop_size: 40
+            n_gens: 50
+            sample_num: 10
+            heads_share: True
+            cal_train_mode: True
+            flops_constraint: 900000000
+            flops_min: 700000000
+            channel_percent: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+            ps_num: 1000
+            side_scheme: 'BCNet'
+    strategy:
+        task_type: 'imagenet-test'
+        snapshot_freq: 2000
+        print_freq: 20
+        save_path: None 
+        load_name: 'epoch_299_ckpt.pth.tar'
+
+    data:
+        data_dir: your val data path
+        workers: 8  # dataloader worker num
+        task_type: 'imagenet-test'
+        augmentation: False
+        batch_size: 1024 # for all gpus
+
+
+retrain:
+    flag: False
+    model:
+        backbone:
+            init_stem: [1, 3, [14, 16, 32], [], 384, [], [], True, ['Patch_init']]
+            Block: [16, 384, [3, 6, 12, 16], 1440, 384, 1440, 384, True, ['Block', 'id']]
+            Norm: [1, 384, [], [], [], [], [], 'token', ['Norm']]
+            FC: [1, 384, [], [], 1000, [], [], False, ['FC']]
+        net_id: '1 2 4 3 4 4 1 3 4 3 4 4 4 4 3 3 4 0 0 3 1 6 7 9 4 3 6 8 4 9 1 8 6 4 9 2 7 6 8 9 3 0 3 8 7 0 5 7 9 8 4 4'
+        drop_path_rate: 0.1
+        channel_percent: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+        model_len: 19
+        depth: 16
+
+    strategy:
+        max_epochs: 300
+        optimizer:
+            lr: 0.001
+            weight_decay: 0.05
+
+        kwargs:
+            search: False
+            mix_up: False
+            warm_up: 5
+
+
+        task_type: 'imagenet'
+        snapshot_freq: 2000
+        print_freq: 20
+        resume: True
+        save_path: None 
+        load_name: 'recent_ckpt.pth.tar'
+
+    data:
+        data_dir: your train data path
+        workers: 8  # dataloader worker num
+        task_type: 'imagenet'
+        augmentation: 'deit'
+        batch_size: 1024
+
+test:
+    flag: True
+    model:
+        backbone:
+            init_stem: [1, 3, [14, 16, 32], [], 384, [], [], True, ['Patch_init']]
+            Block: [16, 384, [3, 6, 12, 16], 1440, 384, 1440, 384, True, ['Block', 'id']]
+            Norm: [1, 384, [], [], [], [], [], 'token', ['Norm']]
+            FC: [1, 384, [], [], 1000, [], [], False, ['FC']]
+        net_id: '1 2 4 3 4 4 1 3 4 3 4 4 4 4 3 3 4 0 0 3 1 6 7 9 4 3 6 8 4 9 1 8 6 4 9 2 7 6 8 9 3 0 3 8 7 0 5 7 9 8 4 4'
+        drop_path_rate: 0.1
+        channel_percent: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+        model_len: 19
+        depth: 16
+        
+
+    strategy:
+        task_type: 'imagenet-test'
+        save_path: None
+        start: 299
+        end: 300
+        strip: 1
+
+    data:
+        data_dir: your test data path
+        workers: 8  # dataloader worker num
+        task_type: 'imagenet-test'
+        batch_size: 1024 # for all gpus
