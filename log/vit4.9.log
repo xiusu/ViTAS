@@ -1,0 +1,894 @@
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+2021-07-01 16:27:24,671 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,671 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:27:24,672 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+[rank0]ImagenetTrainer build done.
+all mixup_fn
+Retraining subnet FLOPs:
+4930994656
+Average running time:
+pics_1s: 351.3525610843554
+Retraining Params
+22540277
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[1]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[7]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[2]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[5]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[3]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[4]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12142972108(12142972108)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[6]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12066324480(12066324480)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 118, in run
+    self.retrain()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 191, in retrain
+    self.trainer.train()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 65, in train
+    self.train_one_ep(epoch = epoch)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/tools/trainer/imagenet/trainer.py", line 99, in train_one_ep
+    output = self.model(samples)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 156, in forward
+    output = self.module(*inputs[0], **kwargs[0])
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 80, in forward
+    logits = self.normal_step(x)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/model/net.py", line 89, in normal_step
+    x = block[0](x)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 352, in forward
+    out1 = self.drop_path(self.attn(self.norm1(x)))
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 456, in __call__
+    result = self.comforward(*args, **kwargs)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/nn/module.py", line 88, in comforward
+    result = self.forward(*args, **kwargs)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/search_space/ops.py", line 228, in forward
+    attn = (q @ k.transpose(-2, -1)) * self.scale
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/parrots/darray/darray.py", line 590, in __matmul__
+    return self.matmul(other)
+MemoryError: At /home/platform_ci/install_tmp/parrots2mvtopat20210528/include/parrots/foundation/cachedmemorymanager.hpp (194). Failed to allocate 317923328 bytes.
+CachedMemoryManager[0]::
+	Allocated: 11505224696(11505224776)
+	Cached: 12142972108(12142972108)
+	Limit: 12142972108
+
+Opcode: bgemm
+	in0: Float32(2048, 197, 48)@(9456, 48, 1)@CUDA
+	in1: Float32(2048, 48, 197)@(9456, 197, 1)@CUDA
+	out0: Float32(2048, 197, 197)@(38809, 197, 1)@CUDA
+attrs: {"transa":false,"transb":false}
+
+07/01/21 16:28:36.826 (P39411.T39411) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39410.T39410) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39409.T39409) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39405.T39405) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39408.T39408) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39412.T39412) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39407.T39407) [I] parrots exit with unhandled error
+07/01/21 16:28:36.827 (P39406.T39406) [I] parrots exit with unhandled error
+srun: error: BJ-IDC1-10-10-16-88: task 6: Exited with exit code 1
+srun: Terminating job step 5642609.0
+slurmstepd: *** STEP 5642609.0 ON BJ-IDC1-10-10-16-88 CANCELLED AT 2021-07-01T16:28:38 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+srun: error: BJ-IDC1-10-10-16-88: task 4: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-88: tasks 0-3,7: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-88: task 5: Exited with exit code 1
+srun: job 5642706 queued and waiting for resources
+srun: job 5642706 has been allocated resources
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],0] (PID 37508)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:29:23,138 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],6] (PID 37514)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],1] (PID 37509)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],3] (PID 37511)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],5] (PID 37513)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],2] (PID 37510)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],7] (PID 37515)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6610,0],4] (PID 37512)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+4930994656
+average gpu pics:
+343.9481447496008
+==[rank0]==loading checkpoint from ../ViTAS_pth/4.9G_pth/retrain/checkpoint/epoch_299_ckpt.pth.tar
+==[rank2]==load model done.
+==[rank7]==load model done.
+==[rank1]==load model done.
+==[rank6]==load model done.
+==[rank4]==load model done.
+==[rank5]==load model done.
+==[rank3]==load model done.
+==[rank0]==load model done.
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+model_name: epoch_299_ckpt.pth.tar, top1: 80.55400085449219, top5: 95.13800048828125

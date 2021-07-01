@@ -1,0 +1,2507 @@
+srun: error: invalid partition specified: pat_largescale
+srun: error: Unable to allocate resources: Invalid partition name specified
+srun: Force Terminated job 5642481
+srun: error: CPU count per node can not be satisfied
+srun: error: Unable to allocate resources: Requested node configuration is not available
+srun: job 5642484 queued and waiting for resources
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],0] (PID 10312)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 16:18:02,525 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,525 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,525 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,525 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,525 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,526 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,526 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:18:02,526 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],4] (PID 10316)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],2] (PID 10314)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],7] (PID 10319)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],5] (PID 10317)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],1] (PID 10313)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],3] (PID 10315)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6396,0],6] (PID 10318)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+srun: Job has been cancelled
+srun: Force Terminated job 5642484
+srun: error: Unable to allocate resources: No error
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1071.358586823611
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 16, in build_dataloader
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    dataset = Imagenet(mode = 'val')
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 126, in __init__
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    super().__init__(mode, max_class, aug, use_randaugment, default_res, imagenet22k)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/data/imagenet.py", line 59, in __init__
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+    with open(image_list) as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/mnt/lustre/share/images/meta/val.txt'
+07/01/21 16:18:47.374 (P10313.T10313) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10315.T10315) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10316.T10316) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10318.T10318) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10319.T10319) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10312.T10312) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10314.T10314) [I] parrots exit with unhandled error
+07/01/21 16:18:47.374 (P10317.T10317) [I] parrots exit with unhandled error
+srun: error: BJ-IDC1-10-10-16-90: tasks 4,6: Exited with exit code 1
+srun: Terminating job step 5642492.0
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5642492.0 ON BJ-IDC1-10-10-16-90 CANCELLED AT 2021-07-01T16:18:49 ***
+srun: error: BJ-IDC1-10-10-16-90: tasks 0,3,5,7: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-90: task 1: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-90: task 2: Exited with exit code 1
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],0] (PID 11159)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 16:19:30,977 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,977 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,978 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,978 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,978 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,979 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,979 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:19:30,980 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],6] (PID 11165)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],3] (PID 11162)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],4] (PID 11163)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],1] (PID 11160)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],2] (PID 11161)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],5] (PID 11164)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[6412,0],7] (PID 11166)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1065.4870694779268
+../ViTAS_pth/1.3G_pth/retrain/checkpoint/epoch_281_ckpt.pth.tar not exists, waiting for training, current time: 2021-07-01 16:20:09
+srun: Force Terminated job 5642508
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5642508.0 ON BJ-IDC1-10-10-16-90 CANCELLED AT 2021-07-01T16:20:51 ***
+srun: error: BJ-IDC1-10-10-16-90: tasks 3,5: Terminated
+srun: Terminating job step 5642508.0
+srun: error: BJ-IDC1-10-10-16-90: task 6: Terminated
+srun: error: BJ-IDC1-10-10-16-90: tasks 2,7: Terminated
+srun: error: BJ-IDC1-10-10-16-90: task 1: Terminated
+srun: error: BJ-IDC1-10-10-16-90: task 0: Terminated
+srun: error: BJ-IDC1-10-10-16-90: task 4: Terminated
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,707 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:45:56,708 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1070.368237389396
+../ViTAS_pth/1.3G_pth/retrain/checkpoint/epoch_281_ckpt.pth.tar not exists, waiting for training, current time: 2021-07-01 16:46:27
+srun: Force Terminated job 5643029
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5643029.0 ON BJ-IDC1-10-10-16-88 CANCELLED AT 2021-07-01T16:47:03 ***
+srun: error: BJ-IDC1-10-10-16-88: task 1: Terminated
+srun: Terminating job step 5643029.0
+srun: error: BJ-IDC1-10-10-16-88: task 3: Terminated
+srun: error: BJ-IDC1-10-10-16-88: task 0: Terminated
+srun: error: BJ-IDC1-10-10-16-88: task 6: Terminated
+srun: error: BJ-IDC1-10-10-16-88: tasks 2,5,7: Terminated
+srun: error: BJ-IDC1-10-10-16-88: task 4: Terminated
+srun: job 5643044 queued and waiting for resources
+srun: job 5643044 has been allocated resources
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:48:11,890 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1070.518813009672
+==[rank0]==loading checkpoint from ../ViTAS_pth/1.3G_pth/retrain/checkpoint/epoch_299_ckpt.pth.tar
+==[rank5]==load model done.
+==[rank1]==load model done.
+==[rank2]==load model done.
+==[rank6]==load model done.
+==[rank3]==load model done.
+==[rank0]==load model done.
+==[rank7]==load model done.
+==[rank4]==load model done.
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+model_name: epoch_299_ckpt.pth.tar, top1: 74.71399688720703, top5: 92.04199981689453
+srun: job 5643209 queued and waiting for resources
+srun: job 5643209 has been allocated resources
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-87
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-87
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-87
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+2021-07-01 16:52:11,823 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,823 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:11,824 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,006 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:52:12,007 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 71, in run
+    self._build_model(self.cfg_net)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 145, in _build_model
+    model = DistributedDataParallel(model, device_ids=[self.local_rank], find_unused_parameters=True)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 84, in __init__
+    self.broadcast_bucket_size)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 92, in _dist_broadcast_coalesced
+    dist.broadcast(flat_tensors, 0, self.process_group)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/distributed/__init__.py", line 150, in broadcast
+    _bcast(tensor, src, channel=group)
+RuntimeError: XCCL error at /home/platform_ci/install_tmp/parrots2mvtopat20210528/src/compute/include/parrots/comm/xcclcommunicator.hpp (147): . unhandled system error
+Opcode: bcast
+	in0: Float32(49596904)@(1)@CUDA
+	out0: Float32(49596904)@(1)@CUDA
+attrs: {"channel":0,"root":0}
+
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 71, in run
+    self._build_model(self.cfg_net)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 145, in _build_model
+    model = DistributedDataParallel(model, device_ids=[self.local_rank], find_unused_parameters=True)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 84, in __init__
+    self.broadcast_bucket_size)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/nn/parallel/distributed.py", line 92, in _dist_broadcast_coalesced
+    dist.broadcast(flat_tensors, 0, self.process_group)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/distributed/__init__.py", line 150, in broadcast
+    _bcast(tensor, src, channel=group)
+RuntimeError: XCCL error at /home/platform_ci/install_tmp/parrots2mvtopat20210528/src/compute/include/parrots/comm/xcclcommunicator.hpp (147): . unhandled system error
+Opcode: bcast
+	in0: Float32(49596904)@(1)@CUDA
+	out0: Float32(49596904)@(1)@CUDA
+attrs: {"channel":0,"root":0}
+
+srun: job 5643219 queued and waiting for resources
+srun: Force Terminated job 5643219
+srun: Job has been cancelled
+srun: error: Unable to allocate resources: No error
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],0] (PID 2501350)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,148 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,149 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],12] (PID 25194)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],11] (PID 25193)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],8] (PID 25190)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],13] (PID 25195)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],9] (PID 25191)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],15] (PID 25197)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],14] (PID 25196)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],10] (PID 25192)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:56:07,265 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],7] (PID 2501357)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],4] (PID 2501354)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],3] (PID 2501353)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],1] (PID 2501351)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],6] (PID 2501356)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],2] (PID 2501352)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[7136,0],5] (PID 2501355)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+all mixup_fn
+[rank0]ImagenetTrainer build done.
+all mixup_fn
+all mixup_fn
+all mixup_fn
+Retraining subnet FLOPs:
+1303042496
+Average running time:
+pics_1s: 1062.4502094193124
+Retraining Params
+6048414
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+Epoch: [0][   0/1251]	Time  7.147 ( 7.147)	Data  6.211 ( 6.211)	Loss 6.9578e+00 (6.9578e+00)
+Epoch: [0][  20/1251]	Time  0.271 ( 0.643)	Data  0.014 ( 0.315)	Loss 6.9216e+00 (6.9624e+00)
+srun: Force Terminated job 5643209
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5643209.0 ON BJ-IDC1-10-10-16-87 CANCELLED AT 2021-07-01T16:57:02 ***
+srun: error: BJ-IDC1-10-10-16-87: task 0: Terminated
+srun: Terminating job step 5643209.0
+srun: error: BJ-IDC1-10-10-16-88: task 14: Terminated
+srun: error: BJ-IDC1-10-10-16-87: task 1: Terminated
+srun: error: BJ-IDC1-10-10-16-88: task 10: Terminated
+srun: error: BJ-IDC1-10-10-16-87: task 4: Terminated
+srun: error: BJ-IDC1-10-10-16-88: tasks 8,11,13: Terminated
+srun: error: BJ-IDC1-10-10-16-87: tasks 2,5-7: Terminated
+srun: error: BJ-IDC1-10-10-16-88: tasks 9,12: Terminated
+srun: error: BJ-IDC1-10-10-16-87: task 3: Terminated
+srun: error: BJ-IDC1-10-10-16-88: task 15: Terminated
+Epoch: [0][  40/1251]	Time  0.300 ( 0.529)	Data  0.048 ( 0.195)	Loss 7.0357e+00 (6.9632e+00)
+Epoch: [0][  60/1251]	Time  0.395 ( 0.463)	Data  0.013 ( 0.137)	Loss 6.9787e+00 (6.9578e+00)
+Epoch: [0][  80/1251]	Time  0.278 ( 0.440)	Data  0.039 ( 0.108)	Loss 6.9399e+00 (6.9492e+00)
+srun: Force Terminated job 5643232
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5643232.0 ON BJ-IDC1-10-10-16-50 CANCELLED AT 2021-07-01T16:57:25 ***
+srun: error: BJ-IDC1-10-10-16-50: task 4: Terminated
+srun: Terminating job step 5643232.0
+srun: error: BJ-IDC1-10-10-16-63: tasks 8-15: Terminated
+srun: error: BJ-IDC1-10-10-16-50: tasks 0-3,5-7: Terminated
+srun: job 5644121 queued and waiting for resources
+srun: job 5644121 has been allocated resources
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],0] (PID 22703)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:06:41,721 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],6] (PID 22709)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],3] (PID 22706)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],2] (PID 22705)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],4] (PID 22707)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],1] (PID 22704)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],5] (PID 22708)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8025,0],7] (PID 22710)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1043.7459230414877
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+                self._build_tester(cfg_test_data, cfg_test_stg)self._build_tester(cfg_test_data, cfg_test_stg)
+self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError:     local variable 'train_aug' referenced before assignment
+self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, train_aug)
+UnboundLocalError: local variable 'train_aug' referenced before assignment
+07/01/21 18:07:09.911 (P22703.T22703) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22705.T22705) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22704.T22704) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22709.T22709) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22708.T22708) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22706.T22706) [I] parrots exit with unhandled error
+07/01/21 18:07:09.911 (P22707.T22707) [I] parrots exit with unhandled error
+07/01/21 18:07:09.912 (P22710.T22710) [I] parrots exit with unhandled error
+srun: error: BJ-IDC1-10-10-16-62: task 2: Exited with exit code 1
+srun: Terminating job step 5644121.0
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5644121.0 ON BJ-IDC1-10-10-16-62 CANCELLED AT 2021-07-01T18:07:11 ***
+srun: error: BJ-IDC1-10-10-16-62: task 7: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-62: tasks 0-1,4-6: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-62: task 3: Exited with exit code 1
+srun: job 5644127 queued and waiting for resources
+srun: job 5644127 has been allocated resources
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],0] (PID 22747)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+2021-07-01 18:07:58,780 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,780 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,780 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,780 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,781 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,781 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,781 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 18:07:58,781 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],3] (PID 22750)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],6] (PID 22753)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],7] (PID 22754)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],2] (PID 22749)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],5] (PID 22752)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],4] (PID 22751)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+A process has executed an operation involving a call to the
+"fork()" system call to create a child process.  Open MPI is currently
+operating in a condition that could result in memory corruption or
+other system errors; your job may hang, crash, or produce silent
+data corruption.  The use of fork() (or system() or other calls that
+create child processes) is strongly discouraged.
+
+The process that invoked fork was:
+
+  Local host:          [[8031,0],1] (PID 22748)
+
+If you are *absolutely sure* that your application will successfully
+and correctly survive a call to fork(), you may disable this warning
+by setting the mpi_warn_on_fork MCA parameter to 0.
+--------------------------------------------------------------------------
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+1303042496
+average gpu pics:
+1049.9099187541985
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    agent.run()    dataset = datasets.ImageFolder(data_dir, test_aug)
+
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+Traceback (most recent call last):
+  File "tools/agent_run.py", line 18, in <module>
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    agent.run()
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 138, in run
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    self._build_tester(cfg_test_data, cfg_test_stg)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/agent/nas_vit.py", line 204, in _build_tester
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    self.test_dataloader, self.test_sampler = build_dataloader(cfg_data_test, is_test = True)
+  File "/mnt/lustre/suxiu/NAS_vit/ViTAS_open_source/core/dataset/build_dataloader.py", line 21, in build_dataloader
+    dataset = datasets.ImageFolder(data_dir, test_aug)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 209, in __init__
+    is_valid_file=is_valid_file)
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    is_valid_file=is_valid_file)
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    is_valid_file=is_valid_file)
+  File "/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torchvision-0.4.0a0+787b397-py3.6-linux-x86_64.egg/torchvision/datasets/folder.py", line 97, in __init__
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+    "Supported extensions are: " + ",".join(extensions)))
+RuntimeError: Found 0 files in subfolders of: /mnt/lustreold/share/images/val
+Supported extensions are: .jpg,.jpeg,.png,.ppm,.bmp,.pgm,.tif,.tiff,.webp
+07/01/21 18:08:19.597 (P22747.T22747) [I] parrots exit with unhandled error
+07/01/21 18:08:19.599 (P22748.T22748) [I] parrots exit with unhandled error
+07/01/21 18:08:19.600 (P22751.T22751) [I] parrots exit with unhandled error
+07/01/21 18:08:19.600 (P22754.T22754) [I] parrots exit with unhandled error
+07/01/21 18:08:19.600 (P22749.T22749) [I] parrots exit with unhandled error
+07/01/21 18:08:19.600 (P22753.T22753) [I] parrots exit with unhandled error
+07/01/21 18:08:19.601 (P22750.T22750) [I] parrots exit with unhandled error
+07/01/21 18:08:19.604 (P22752.T22752) [I] parrots exit with unhandled error
+srun: error: BJ-IDC1-10-10-16-70: task 6: Exited with exit code 1
+srun: Terminating job step 5644127.0
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: *** STEP 5644127.0 ON BJ-IDC1-10-10-16-70 CANCELLED AT 2021-07-01T18:08:20 ***
+srun: error: BJ-IDC1-10-10-16-70: task 5: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-70: task 4: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-70: task 2: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-70: tasks 0-1,3: Exited with exit code 1
+srun: error: BJ-IDC1-10-10-16-70: task 7: Exited with exit code 1

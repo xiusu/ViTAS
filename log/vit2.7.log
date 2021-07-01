@@ -1,0 +1,288 @@
+srun: job 5642597 queued and waiting for resources
+srun: job 5642597 has been allocated resources
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Failed to create a completion queue (CQ):
+
+Hostname: BJ-IDC1-10-10-16-88
+Requested CQE: 16384
+Error:    Cannot allocate memory
+
+Check the CQE attribute.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+Open MPI has detected that there are UD-capable Verbs devices on your
+system, but none of them were able to be setup properly.  This may
+indicate a problem on this system.
+
+You job will continue, but Open MPI will ignore the "ud" oob component
+in this run.
+
+Hostname: BJ-IDC1-10-10-16-88
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+No OpenFabrics connection schemes reported that they were able to be
+used on a specific port.  As such, the openib BTL (OpenFabrics
+support) will be disabled for this port.
+
+  Local host:           BJ-IDC1-10-10-16-88
+  Local device:         mlx4_0
+  Local port:           1
+  CPCs attempted:       rdmacm, udcm
+--------------------------------------------------------------------------
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,212 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+2021-07-01 16:26:03,213 [32mINFO[0m: Parrots 0.13.0 | Git hash: 2ba796f4 | Parrots tag: pat20210528[0m
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+tools/agent_run.py:16: YAMLLoadWarning: calling yaml.load() without Loader=... is deprecated, as the default Loader is unsafe. Please read https://msg.pyyaml.org/load for full details.
+  config = yaml.load(open(sys.argv[1], 'r'))
+Retraining subnet FLOPs:
+2706797632
+average gpu pics:
+594.8621161441184
+==[rank0]==loading checkpoint from ../ViTAS_pth/2.7G_pth/retrain/checkpoint/epoch_299_ckpt.pth.tar
+==[rank2]==load model done.
+==[rank1]==load model done.
+==[rank3]==load model done.
+==[rank7]==load model done.
+==[rank5]==load model done.
+==[rank6]==load model done.
+==[rank0]==load model done.
+==[rank4]==load model done.
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+/mnt/lustre/share/platform/env/miniconda3.6/envs/pat20210528/lib/python3.6/site-packages/torch/tensor.py:146: UserWarning: Do not support pin memory. Do nothing when setting non_blocking as True. 
+  warnings.warn('Do not support pin memory. '
+model_name: epoch_299_ckpt.pth.tar, top1: 77.4280014038086, top5: 93.83200073242188
