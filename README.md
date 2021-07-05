@@ -42,11 +42,11 @@ chmod +x ./script/vit_1.3G_inference.sh
 
 Model name | FLOPs | Top 1 | Top 5 | Download
 ------------ | ------------- | ------------- | ------------- | -------------
-ViTAS-A | 858M | 71.1% | 89.8% | xxx
-ViTAS-B | 1.0G | 72.4% | 90.6% | xxx
-ViTAS-C | 1.3G | 74.7% | 92.0% | xxx 
-ViTAS-E | 2.7G | 77.4% | 93.8% | xxx
-ViTAS-F | 4.9G | 80.6% | 95.1% | xxx
+ViTAS-A | 858M | 71.1% | 89.8% | [Google drive](https://drive.google.com/drive/folders/15xGXCBXlmvQgFyw4qFHw2-Rx6M-5JS0U?usp=sharing)
+ViTAS-B | 1.0G | 72.4% | 90.6% | [Google drive](https://drive.google.com/drive/folders/1Hwt2rj4GWZsMLq8zCBMPX0TKe7-owWoU?usp=sharing)
+ViTAS-C | 1.3G | 74.7% | 92.0% | [Google drive](https://drive.google.com/drive/folders/151xZk-v6bLtZuzqxmoSagtehb2e5JpSM?usp=sharing)
+ViTAS-E | 2.7G | 77.4% | 93.8% | [Google drive](https://drive.google.com/drive/folders/1JwW5xTObaAosFsNZErkiND_rDnj6SEuG?usp=sharing)
+ViTAS-F | 4.9G | 80.6% | 95.1% | [Google drive](https://drive.google.com/drive/folders/11gpbIr4b7NJU14lIYvU5deRYHHeOFS1B?usp=sharing)
 
 ## Citation
 
