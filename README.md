@@ -41,7 +41,7 @@ chmod +x ./script/vit_1.3G_inference.sh
 ## Results of searched architectures with ViTAS
 In each yaml, the 'save_path' in 'search' controls all paths (eg., line 34 in inference/ViTAS_1.3G_inference.yaml). The code will automatically build the path of 'save_path'+'search/checkpoint/' for your supernet, and also 'save_path' + 'retrain/checkpoint' for retraining the searched architecture.
 
-Therefore, to inference the provided pth file, you need to build a path of 'save_path/retrain/checkpoint/download.pth' ('save_path' specified in yaml and download.pth provided in below table).
+Therefore, to inference the provided pth file, you need to build a path of 'save_path/retrain/checkpoint/download.pth' ('save_path' is specified in yaml and download.pth is provided in below table).
 
 The extract code for Baidu Cloud is 'c7gn'.
 
