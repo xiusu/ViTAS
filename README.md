@@ -1,6 +1,6 @@
 # Vision Transformer Architecture Search
 
-This repository open source the code for ViTAS: Vision Transformer Architecture Search.
+This repository open source the code for ViTAS: Vision Transformer Architecture Search. ViTAS aims to search for pure transformer architectures, which do not include CNN convolution or indutive bias related operations.
 
 ## Requirements
 1. torch>=1.4.0
@@ -45,8 +45,6 @@ Therefore, to inference the provided pth file, you need to build a path of 'save
 
 The extract code for Baidu Cloud is 'c7gn'.
 
-
-
 Model name | FLOPs | Top 1 | Top 5 | Download
 ------------ | ------------- | ------------- | ------------- | -------------
 ViTAS-A | 858M | 71.1% | 89.8% | [Google Drive](https://drive.google.com/drive/folders/15xGXCBXlmvQgFyw4qFHw2-Rx6M-5JS0U?usp=sharing), [Baidu Cloud](https://pan.baidu.com/s/1zl2c2AicGI60QaSpDwtusw)
@@ -54,6 +52,13 @@ ViTAS-B | 1.0G | 72.4% | 90.6% | [Google Drive](https://drive.google.com/drive/f
 ViTAS-C | 1.3G | 74.7% | 92.0% | [Google Drive](https://drive.google.com/drive/folders/151xZk-v6bLtZuzqxmoSagtehb2e5JpSM?usp=sharing), [Baidu Cloud](https://pan.baidu.com/s/1zl2c2AicGI60QaSpDwtusw)
 ViTAS-E | 2.7G | 77.4% | 93.8% | [Google Drive](https://drive.google.com/drive/folders/1JwW5xTObaAosFsNZErkiND_rDnj6SEuG?usp=sharing), [Baidu Cloud](https://pan.baidu.com/s/1zl2c2AicGI60QaSpDwtusw)
 ViTAS-F | 4.9G | 80.6% | 95.1% | [Google Drive](https://drive.google.com/drive/folders/11gpbIr4b7NJU14lIYvU5deRYHHeOFS1B?usp=sharing), [Baidu Cloud](https://pan.baidu.com/s/1zl2c2AicGI60QaSpDwtusw)
+
+For a fair comparison of Deit and ViT architectures, we also provided their results in below table:
+
+Model name | FLOPs | Top 1 | Top 5
+------------ | ------------- | ------------- | -------------
+DeiT-Ti | 1.3G | 72.2 | 80.1
+DeiT-S | 4.6G | 79.8 | 85.7
 
 ## Citation
 
