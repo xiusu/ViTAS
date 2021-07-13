@@ -1,6 +1,6 @@
 # Vision Transformer Architecture Search
 
-This repository open source the code for ViTAS: Vision Transformer Architecture Search. ViTAS aims to search for pure transformer architectures, which do not include CNN convolution or indutive bias related operations.
+This repository open source the code for [ViTAS: Vision Transformer Architecture Search](https://arxiv.org/pdf/2106.13700.pdf). ViTAS aims to search for pure transformer architectures, which do not include CNN convolution or indutive bias related operations.
 
 ## Requirements
 1. torch>=1.4.0
