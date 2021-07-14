@@ -38,7 +38,7 @@ search:
         data_dir: your train data path
         workers: 8  # dataloader worker num
         task_type: 'imagenet'
-        augmentation: 'deit'
+        augmentation: 'deit_xaa_xcj'
         batch_size: 1024
 
 
