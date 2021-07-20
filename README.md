@@ -9,13 +9,27 @@ This repository open source the code for [ViTAS: Vision Transformer Architecture
 1. change the 'data_dir' in yaml from search/retrain/inference directory to your ImageNet data path, note that each yaml have four 'data_dir' for training the supernet (train data), evolutionary sampling with supernet (val data), retraining the searched architecture (train data), and test the trained architecture (test data).
 1. This code is based on slurm for distributed training.
 
+## ViTAS
+
+Illustration of the private class tokens and self-attention maps in the ViTAS.
+
+![private](pics/private_token.pdf) ![qkv](pics/Transformer_qkv.pdf)
+
 ## Reproducing
 
 ### To implement the search with ViTAS.
 
-The supernet training process of ViTAS will be updated within two weeks after a detailed test.
+We incorporate 2 strategies in ViTAS for searching the optimal width, i.e., BCNet([paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Su_BCNet_Searching_for_Network_Width_With_Bilaterally_Coupled_Network_CVPR_2021_paper.pdf)) and AutoSlim([paper](https://arxiv.org/pdf/1903.11728.pdf)).
 
-We will update more information about ViTAS, please stay tuned on this repository.
+We strongly recommend using BCNet mode since BCNet can promote the supernet being trained fairly and promote better-searched results. From the experiments of [BCNet](https://openaccess.thecvf.com/content/CVPR2021/papers/Su_BCNet_Searching_for_Network_Width_With_Bilaterally_Coupled_Network_CVPR_2021_paper.pdf), with the same searching budgets, BCNet can surpass AutoSlim by 0.8% on Top-1 accuracy.
+
+chmod +x ./script/command.sh
+
+chmod +x ./script/vit_1G_search.sh
+
+./script/vit_1G_search.sh     (BCNet mode)
+
+./script/vit_1G_search_AS.sh  (AutoSlim mode)
 
 ### To retrain our searched models.
 For example, train our 1.3G architecture searched by ViTAS.
@@ -37,6 +51,17 @@ chmod +x ./script/vit_1.3G_inference.sh
 
 ./script/vit_1.3G_inference.sh
 ```
+
+## Block-level searched results with ViTAS
+Although the inspiring results from the ViTAS, the searched ViT archiectures are complex and hard to remember for researchers. For the practicality of the ViTAS, we restricted all transformer blocks in a single architecture (i.e., a cell) to have the same structure, including head number and output dimension, with steady patch size as 16. With this setting, the searched block-level optimal architecture is showned in below table. With this setting, block level architecture can achieve 74.7% on Top-1 accuracy on ImageNet.
+
+Number | Type | Patch size / #Heads | Output Dim
+:---: | :---: | :---: | :---: 
+1 | Embedding | 16 | 230
+12 | MHSA | 3 | 432
+-- | MLP | - | 720
+
+
 
 ## Results of searched architectures with ViTAS
 In each yaml, the 'save_path' in 'search' controls all paths (eg., line 34 in inference/ViTAS_1.3G_inference.yaml). The code will automatically build the path of 'save_path'+'search/checkpoint/' for your supernet, and also 'save_path' + 'retrain/checkpoint' for retraining the searched architecture.
@@ -60,6 +85,8 @@ Model name | FLOPs | Top 1 | Top 5
 DeiT-Ti | 1.3G | 72.2 | 80.1
 DeiT-S | 4.6G | 79.8 | 85.7
 
+
+
 ## Citation
 
 If you find that ViTAS interesting and help your research, please consider citing it:
@@ -70,6 +97,15 @@ If you find that ViTAS interesting and help your research, please consider citin
       author={Xiu Su and Shan You and Jiyang Xie and Mingkai Zheng and Fei Wang and Chen Qian and Changshui Zhang and Xiaogang Wang and Chang Xu},
       year={2021},
       eprint={2106.13700},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@misc{su2021bcnet,
+      title={BCNet: Searching for Network Width with Bilaterally Coupled Network}, 
+      author={Xiu Su and Shan You and Fei Wang and Chen Qian and Changshui Zhang and Chang Xu},
+      year={2021},
+      eprint={2105.10533},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }

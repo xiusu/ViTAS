@@ -30,12 +30,11 @@ search:
         task_type: 'imagenet'
         snapshot_freq: 10000
         print_freq: 20
-        resume: False
+        resume: True
         save_path: '../generalNAS_exp/vit_search_1G'
-        load_name: 'iter_100000_ckpt.pth.tar'
+        load_name: 'epoch_199_ckpt.pth.tar' #'recent_ckpt.pth.tar'
 
     data:
-        data_dir: your train data path
         workers: 8  # dataloader worker num
         task_type: 'imagenet'
         augmentation: 'deit_xaa_xcj'
@@ -54,7 +53,7 @@ sample:
             heads_share: True
             cal_train_mode: True
             flops_constraint: 1000000000
-            flops_min: 850000000
+            flops_min: 900000000
             channel_percent: [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
             ps_num: 1000
             side_scheme: 'BCNet'
@@ -63,10 +62,9 @@ sample:
         snapshot_freq: 2000
         print_freq: 20
         save_path: None 
-        load_name: 'epoch_0_ckpt.pth.tar'
+        load_name: 'epoch_299_ckpt.pth.tar'
 
     data:
-        data_dir: your val data path
         workers: 8  # dataloader worker num
         task_type: 'imagenet-test'
         augmentation: False
@@ -105,7 +103,6 @@ retrain:
         load_name: 'epoch_0_ckpt.pth.tar'
 
     data:
-        data_dir: your train data path
         workers: 8  # dataloader worker num
         task_type: 'imagenet'
         augmentation: 'deit'
@@ -131,7 +128,6 @@ test:
         strip: 1
 
     data:
-        data_dir: your test data path
         workers: 8  # dataloader worker num
         task_type: 'imagenet-test'
         batch_size: 1024 # for all gpus
