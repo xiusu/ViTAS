@@ -11,9 +11,13 @@ This repository open source the code for [ViTAS: Vision Transformer Architecture
 
 ## ViTAS
 
-Illustration of the private class tokens and self-attention maps in the ViTAS.
+Illustration of the private class tokens and self-attention maps in the ViTAS. In the private
+class tokens, for two different patch sizes p, we assign two independent
+class tokens for each and obtain p patches and a private class token under one patch size setting. In
+the private self-attention maps, value v is shared among the four cases with the four head numbers,
+while q and k are obtained independently for all the cases.
 
-![private](pics/private_token.pdf) ![qkv](pics/Transformer_qkv.pdf)
+<img src="pics/private_token.png" width="300" height="300"> <img src="pics/Transformer_qkv.png" width="300" height="300">
 
 ## Reproducing
 
@@ -23,6 +27,7 @@ We incorporate 2 strategies in ViTAS for searching the optimal width, i.e., BCNe
 
 We strongly recommend using BCNet mode since BCNet can promote the supernet being trained fairly and promote better-searched results. From the experiments of [BCNet](https://openaccess.thecvf.com/content/CVPR2021/papers/Su_BCNet_Searching_for_Network_Width_With_Bilaterally_Coupled_Network_CVPR_2021_paper.pdf), with the same searching budgets, BCNet can surpass AutoSlim by 0.8% on Top-1 accuracy.
 
+```
 chmod +x ./script/command.sh
 
 chmod +x ./script/vit_1G_search.sh
@@ -30,6 +35,7 @@ chmod +x ./script/vit_1G_search.sh
 ./script/vit_1G_search.sh     (BCNet mode)
 
 ./script/vit_1G_search_AS.sh  (AutoSlim mode)
+```
 
 ### To retrain our searched models.
 For example, train our 1.3G architecture searched by ViTAS.
@@ -53,7 +59,7 @@ chmod +x ./script/vit_1.3G_inference.sh
 ```
 
 ## Block-level searched results with ViTAS
-Although the inspiring results from the ViTAS, the searched ViT archiectures are complex and hard to remember for researchers. For the practicality of the ViTAS, we restricted all transformer blocks in a single architecture (i.e., a cell) to have the same structure, including head number and output dimension, with steady patch size as 16. With this setting, the searched block-level optimal architecture is showned in below table. With this setting, block level architecture can achieve 74.7% on Top-1 accuracy on ImageNet.
+Although the inspiring results from the ViTAS, the searched ViT architectures are complex and hard to remember for researchers. For the practicality of the ViTAS, we restricted all transformer blocks in a single architecture (i.e., a cell) to have the same structure, including head number and output dimension, with a steady patch size as 16. With this setting, the searched block-level optimal architecture is shown in the below table. With this setting, block-level architecture can achieve 74.7% on Top-1 accuracy on ImageNet.
 
 Number | Type | Patch size / #Heads | Output Dim
 :---: | :---: | :---: | :---: 
