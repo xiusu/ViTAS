@@ -59,7 +59,7 @@ chmod +x ./script/vit_1.3G_inference.sh
 ```
 
 ## Block-level searched results with ViTAS
-Although the inspiring results from the ViTAS, the searched ViT architectures are complex and hard to remember for researchers. For the practicality of the ViTAS, we restricted all transformer blocks in a single architecture (i.e., a cell) to have the same structure, including head number and output dimension, with a steady patch size as 16. With this setting, the searched block-level optimal architecture is shown in the below table. With this setting, block-level architecture can achieve 74.7% on Top-1 accuracy on ImageNet.
+Although the inspiring results from the ViTAS, the searched ViT architectures are complex and hard to remember for researchers. For the practicality of the ViTAS, we restricted all transformer blocks in a single architecture (i.e., a cell) to have the same structure, including head number and output dimension, with a steady patch size as 16. With this setting, the searched block-level optimal architecture is shown in the below table. With this setting, **1.3G FLOPs block-level architecture can achieve 74.7% on Top-1 accuracy on ImageNet**. The searched architecture is shown in below table.
 
 Number | Type | Patch size / #Heads | Output Dim
 :---: | :---: | :---: | :---: 
